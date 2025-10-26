@@ -45,12 +45,10 @@
 
 
 
+## 📁 Project Structure
 
-### File Structure
+<img width="553" height="144" alt="image" src="https://github.com/user-attachments/assets/942a03fa-5090-4e73-a180-ee1bd12f5d4e" />
 
-├── index.html # Game structure and layout
-├── style.css # Modern styling and responsive design
-└── app.js # Game logic and functionality
 
 
 ## Technologies Used
